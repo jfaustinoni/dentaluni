@@ -1,0 +1,24 @@
+.panel {
+    background-color: #fff;
+
+    label {
+        font-weight: 600;
+    }
+    
+    input {
+        background-color: #fff;
+    }
+}
+.actions {
+    a {
+        color: #000;
+    }
+    button {
+        border: none;
+        background: transparent;
+    }
+}
+
+.dataTables_wrapper {
+    overflow: scroll;
+}
